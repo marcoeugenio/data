@@ -14,7 +14,7 @@
 ORACLE_URL_ZIP=http://victoria.invitrogen.com/software/oracle/build.zip
 ASN2ALL_URL_ZIP=https://ftp.ncbi.nih.gov/asn1-converters/by_program/asn2all/linux64.asn2all.gz
 
-LIBIDN_URL_ZIP=https://raw.githubusercontent.com/thermofisher/magellan-data-refseq-containers/integration/0.0.1-2024.10.43-1.0/victoria/libidn.so.11.6.16
+LIBIDN_URL_ZIP=https://raw.githubusercontent.com/marcoeugenio/data/main/libidn.so.11.6.16
 
 ORACLE_BASIC=oracle-instantclient11.2-basic-11.2.0.4.0-1.x86_64.rpm
 ORACLE_SDK=oracle-instantclient11.2-devel-11.2.0.4.0-1.x86_64.rpm
